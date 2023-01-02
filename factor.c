@@ -35,5 +35,5 @@ a=b;
 b=temp; 
 }
 
-printf("最大公因數( %d , %d ) = %d\n",s , w, B(a,b));
+printf("Highest common factor( %d , %d ) = %d\n",s , w, B(a,b));
 }
